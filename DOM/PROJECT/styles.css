@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 18px;
 }
 
 body {
@@ -10,10 +13,7 @@ body {
 }
 
 h1 {
-    font-style: normal;
-    font-weight: normal;
     font-size: 24px;
-    line-height: 18px;
     color: #F4F4F4;
     Height: 66px;
     width: 375px;
@@ -39,10 +39,8 @@ main {
 
 label {
     font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 18px;
     /* identical to box height, or 129% */
     color: #777777;
 }
@@ -82,10 +80,8 @@ button {
     height: 48px;
     cursor: pointer;
     color: #F4F4F4;
-    font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    line-height: 18px;
     border: none;
     width: 100%;
     margin-top: 24px;
@@ -94,4 +90,30 @@ button {
 
 button:hover {
     opacity: 0.9;
+}
+
+section {
+    border: 1px solid #1B83E2;
+    border-radius: 4px;
+}
+
+.currency-container {
+    text-align: center;
+    padding: 10px;
+}
+
+.currency-name {
+    font-size: 14px;
+    color: #777777;
+}
+
+.currency-value {
+    font-weight: bold;
+    font-size: 20px;
+    color: #1B83E2;
+}
+
+.arrow-image {
+    margin: 15px auto;
+    display: block;
 }
