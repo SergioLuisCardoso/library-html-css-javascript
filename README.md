@@ -8,25 +8,25 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
-
-<!--->
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
-
-### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
-
-## 💻 Pré-requisitos
+<img src="./DOM/PROJECT/assets/under-construction-gfe000ded0_1920.jpg" alt="exemplo imagem">
 
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+> This folder contain examples from Javascript, CSS and HTML..
+
+### Adjustments and improvements
+
+The project is still under development and the next updates will focus on the following tasks
+
+- [x] Principal folder
+- [x] Languages folder
+- [x] Examples of languages
+- [ ] Task 4
+- [ ] Task 5
+
+## 💻 Prerequisites
+
+
+Before starting, make sure you've met the following requirements:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 
 <!--mude_aqui->

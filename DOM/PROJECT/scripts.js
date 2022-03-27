@@ -18,15 +18,20 @@ const convertValues = () => {
 
     //currencyValueText.innerHTML = (inputReais / dolar)
 
-    currencyValueText.innerHTML = new Intl.NumberFormat('en-US', {
-        style: 'currency',
-        currency: 'USD'
-    }).format(inputReais / dolar)
+    if (select.value === "US$ Dólar americano") {
+        currencyValueText.innerHTML = new Intl.NumberFormat('en-US', {
+            style: 'currency',
+            currency: 'USD'
+        }).format(inputReais / dolar)
+    }
 
-    currencyValueText.innerHTML = new Intl.NumberFormat('de-DE', {
-        style: 'currency',
-        currency: 'EU'
-    }).format(inputReais / euro)
+    if (select.value === "€ Euro") {
+        currencyValueText.innerHTML = new Intl.NumberFormat('de-DE', {
+            style: 'currency',
+            currency: 'EUR'
+        }).format(inputReais / euro)
+    }
+
 
 }
 
@@ -43,6 +48,8 @@ const changeCurrency = () => {
         currencyName.innerHTML = "Dólar americano"
         currencyImg.src = "./assets/eua.png"
     }
+
+    convertValues()
 
 }
 
