@@ -1,0 +1,4 @@
+Atalho				Ação
+---------------------------------------------------------------------------
+Ctrl+ Alt + clique		Adicionar um cursor secundário
+Ctrl+ Alt + clique duas vezes	Adicionar uma seleção de palavra secundária

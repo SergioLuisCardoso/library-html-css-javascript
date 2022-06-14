@@ -23,11 +23,13 @@ The project is still under development and the next updates will focus on the fo
 - [ ] Task 4
 - [ ] Task 5
 
+
+<!---
 ## 💻 Prerequisites
 
 
 Before starting, make sure you've met the following requirements:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 
 <!--mude_aqui->
 * Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
