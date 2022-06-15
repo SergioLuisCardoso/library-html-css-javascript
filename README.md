@@ -1,4 +1,4 @@
-# library-html-css-javascript
+# Library HTML CSS JavaScript
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -11,7 +11,7 @@
 <img src="./DOM/PROJECT/assets/under-construction-gfe000ded0_1920.jpg" alt="exemplo imagem">
 
 
-> This folder contain examples from Javascript, CSS and HTML..
+> This folder contain examples from Javascript, CSS, Node.Js and HTML.
 
 ### Adjustments and improvements
 
@@ -23,6 +23,7 @@ The project is still under development and the next updates will focus on the fo
 - [ ] Task 4
 - [ ] Task 5
 
+[⬆ Voltar ao topo](#library-html-css-javascript)<br>
 
 <!---
 ## 💻 Prerequisites
