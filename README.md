@@ -23,6 +23,10 @@ The project is still under development and the next updates will focus on the fo
 - [ ] Task 4
 - [ ] Task 5
 
+## 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
 [⬆ Voltar ao topo](#library-html-css-javascript)<br>
 
 <!---
