@@ -25,7 +25,7 @@ The project is still under development and the next updates will focus on the fo
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
 [⬆ Voltar ao topo](#library-html-css-javascript)<br>
 
