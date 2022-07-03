@@ -22,6 +22,7 @@ The project is still under development and the next updates will focus on the fo
 - [x] Examples of languages
 - [ ] Task 4
 - [ ] Task 5
+- [ ] Task 6
 
 ## 📝 License
 
