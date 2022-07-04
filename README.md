@@ -23,7 +23,7 @@ The project is still under development and the next updates will focus on the fo
 - [ ] Task 4
 - [ ] Task 5
 - [ ] Task 6
-- [ ] Task 7
+
 
 ## 📝 License
 
