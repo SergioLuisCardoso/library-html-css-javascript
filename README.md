@@ -20,9 +20,9 @@ The project is still under development and the next updates will focus on the fo
 - [x] Principal folder
 - [x] Languages folder
 - [x] Examples of languages
-- [ ] Task 4
-- [ ] Task 5
-- [ ] Task 6
+- [ ] Improvements 4
+- [ ] Improvements 5
+- [ ] Improvements 6
 
 
 ## 📝 License
