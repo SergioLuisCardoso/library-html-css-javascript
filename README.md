@@ -20,7 +20,8 @@ The project is still under development and the next updates will focus on the fo
 - [x] Principal folder
 - [x] Languages folder
 - [x] Examples of languages
-<!-- [ ] Improvements 4 -->
+- [ ] Improvements 1
+- [ ] Improvements 2
 
 
 
