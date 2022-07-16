@@ -22,6 +22,7 @@ The project is still under development and the next updates will focus on the fo
 - [x] Examples of languages
 - [ ] Improvements 1
 - [ ] Improvements 2
+- [ ] Improvements 3
 
 
 
