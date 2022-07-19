@@ -18,7 +18,7 @@
 The project is still under development and the next updates will focus on the following tasks
 
 - [x] Principal folder
-- [x] Languages folder
+- [x] Languages / Technology used
 - [x] Examples of languages
 - [ ] Improvements 1
 - [ ] Improvements 2
