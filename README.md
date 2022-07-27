@@ -22,6 +22,7 @@ The project is still under development and the next updates will focus on the fo
 - [x] Examples of Languages and Technology
 - [ ] Improvements / Tasks 1
 - [ ] Improvements / Tasks 2
+- [ ] Improvements / Tasks 3
 
 
 
