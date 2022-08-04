@@ -18,8 +18,8 @@
 The project is still under development and the next updates will focus on the following tasks
 
 - [x] Principal folder
-- [x] Languages / Technology used
 - [x] Examples of Languages and Technology
+- [x] Languages / Technology used
 - [ ] Tasks / Improvements 1
 
 
