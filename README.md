@@ -15,12 +15,12 @@
 
 ### Adjustments and improvements
 
-The project is still under development and the next updates will focus on the following tasks
+The project is still under development and the next updates will focus on the following tasks:
 
 - [x] Principal folder
-- [x] Examples of Languages and Technology
 - [x] Languages / Technology used
-- [ ] Tasks / Improvements 1
+- [x] Examples of Languages and Technology
+- [ ] Improvements 1
 
 
 
