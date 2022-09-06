@@ -31,24 +31,8 @@ h1 {
     font-weight: bold;
     text-align: center;
     margin: 10px; 
-    /*flex-basis: 300px;  
-    flex-grow: 1;*/
-    flex: 100px 1 1; /* É um atalho para: 1º flax-basis, 2º flex-row e 3º flex-shrink*/
-    order: 2; /* Altera a ordert de exibição dos intens */
+    height: 100px;
+    flex-grow: 1;
     
 }
 
-.second-block{
-    background: #CDD728;
-    border: 5px solid#9758A6;
-    border-radius: 5px;
-    color: black;
-    font-weight: bold;
-    text-align: center;
-    margin: 10px; 
-    /*flex-basis: 300px;  
-    flex-grow: 1;*/
-    flex: 100px 4 4;  /* É um atalho para: 1º flax-basis, 2º flex-row e 3º flex-shrink*/
-    order: 1; /* Altera a ordert de exibição dos intens */
-
-}
