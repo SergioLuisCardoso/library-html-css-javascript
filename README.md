@@ -20,7 +20,8 @@ The project is still under development and the next updates will focus on the fo
 - [x] Principal folder
 - [x] Languages / Technology used
 - [x] Examples of Languages and Technology
-- [ ] Improvements # 1.1.0
+- [ ] Improvements # 1.1.0.0
+
 
 
 
