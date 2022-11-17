@@ -22,7 +22,7 @@ The project is still under development and the next updates will focus on the fo
 - [x] Examples of Languages and Technology
 - [ ] Improvements # 1.0.1
 - [ ] Improvements # 2.1.2.0
-- [ ] Improvements # 3.0
+- [ ] Improvements # 3.0.0
 
 
 
